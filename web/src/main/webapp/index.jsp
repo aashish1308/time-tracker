@@ -15,5 +15,13 @@
   <p>
     This is a very simple example web page on a JSP.
   </p>
+  
+  <td width="100%"><b>&nbsp;Current  Date 
+and time is:&nbsp; <font color="#FF0000">
+
+
+<%= new java.util.Date() %>
+</font></b></td>
+  
 </body>
 </html>
